@@ -26,4 +26,4 @@ sudo apt install qemu-system-mips qemu-user
 ```
 
 > [!NOTE]
-> What is QEMU, and what is the difference between `qemu-system-mips` and `qemu-user`?
+> What is QEMU, and what is the difference between `qemu-system-mips` and `qemu-user` (e.g. `qemu-mips`)?
